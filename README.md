@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm Shender! 👋
+Junior developer passionate about coding and unconventional projects.
 
-<!--
-**Shender-I/Shender-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Working with Java and JavaFX  
+- 🌱 Currently exploring Kotlin and creative coding solutions  
+- 📫 Reach me at: shenderuk.e@gmail.com  
 
-Here are some ideas to get you started:
+## Projects
+- [CryptoConspiracy](https://github.com/Shender-I/CryptoConspiracy) — A JavaFX app for message encryption/decryption using Caesar, Transposition, and Vigenère ciphers  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages**: Java  
+- **Tools & Frameworks**: JavaFX, Git, IntelliJ IDEA, Gradle, Launch4j, jpackage  
+- **Interests**: Unconventional projects, UI development, problem-solving  
